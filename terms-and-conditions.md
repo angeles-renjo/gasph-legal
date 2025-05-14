@@ -1,129 +1,36 @@
-# Terms & Conditions - GasPH
+# Terms & Conditions
 
-**Last updated: May 14, 2025**
+These terms and conditions apply to the GasPH app (hereby referred to as "Application") for mobile devices that was created by GasPH (hereby referred to as "Service Provider") as a Free service.
 
-These terms and conditions ("Terms") apply to the GasPH app (hereby referred to as "Application") for mobile devices that was created by Angeles Renjo (hereby referred to as "Service Provider") as a Free service.
+Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
-## 1. Acceptance of Terms
+The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
-By downloading or using the Application, you automatically agree to these Terms. Please read and understand these Terms thoroughly before using the Application. If you do not agree with these Terms, do not use the Application.
+The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
-## 2. Intellectual Property Rights
-
-- Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited
-- Extracting the source code, translating the Application into other languages, or creating derivative versions is not permitted
-- All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider
-
-## 3. Service Modifications and Charges
-
-The Service Provider reserves the right to:
-- Modify the Application at any time
-- Introduce charges for services that are currently free
-- Discontinue features or the entire Application
-
-Any future charges will be clearly communicated to you before implementation.
-
-## 4. User Responsibilities
-
-### Device Security
-- You are responsible for maintaining the security of your device and Application access
-- We strongly advise against jailbreaking or rooting your device
-- Such modifications may expose your device to security risks and cause the Application to malfunction
-
-### Data Usage
-- The Application requires an internet connection (Wi-Fi or mobile data)
-- You are responsible for any data charges from your mobile provider
-- This includes roaming charges when using the Application outside your home territory
-
-### Account Security
-- Keep your login credentials confidential
-- Notify us immediately of any unauthorized access
-- You are responsible for all activities under your account
-
-## 5. Third-Party Services
-
-The Application uses third-party services with their own Terms and Conditions:
+Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
 - [Google Play Services](https://policies.google.com/terms)
 - [Google Maps Platform](https://cloud.google.com/maps-platform/terms)
 - [Supabase](https://supabase.com/terms)
 - [Expo](https://expo.io/terms)
 
-## 6. Location Services
+Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
-- The Application requires location access to find nearby gas stations
-- Location data is used solely for Application functionality
-- You can disable location services, but this will limit Application features
+If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
 
-## 7. Limitations of Liability
+Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
 
-The Service Provider:
-- Cannot guarantee uninterrupted service
-- Is not responsible for issues arising from:
-  - Lack of internet connectivity
-  - Device battery depletion
-  - Third-party service outages
-  - Inaccurate data from third parties
+In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
 
-## 8. Data Accuracy
+The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
-- We strive to provide accurate fuel prices and station information
-- However, we rely on third-party data and user contributions
-- We accept no liability for losses resulting from data inaccuracies
+## Changes to These Terms and Conditions
 
-## 9. Updates and Compatibility
+The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-- We may update the Application periodically
-- Updates may be required to continue using the Application
-- We don't guarantee compatibility with all device versions
-- You agree to install updates when available
+These terms and conditions are effective as of 2025-05-14
 
-## 10. Termination
+## Contact Us
 
-The Service Provider may terminate the Application or your access at any time without notice. Upon termination:
-- Your rights and licenses under these Terms end
-- You must stop using the Application
-- You must delete the Application from your device
-
-## 11. User Content
-
-If you submit content (reviews, prices, photos):
-- You grant us a license to use, modify, and display this content
-- You warrant that you have the right to submit such content
-- You agree not to submit illegal, offensive, or misleading content
-
-## 12. Prohibited Uses
-
-You agree not to:
-- Use the Application for illegal purposes
-- Submit false or misleading information
-- Interfere with the Application's operation
-- Attempt to gain unauthorized access
-- Reverse engineer the Application
-
-## 13. Indemnification
-
-You agree to indemnify and hold harmless the Service Provider from any claims arising from:
-- Your use of the Application
-- Your violation of these Terms
-- Your violation of any third-party rights
-
-## 14. Governing Law
-
-These Terms are governed by the laws of the Philippines. Any disputes shall be subject to the exclusive jurisdiction of the courts in Quezon City, Philippines.
-
-## 15. Changes to Terms
-
-We may update these Terms periodically. Changes will be posted on this page with an updated date. Your continued use after changes constitutes acceptance.
-
-## 16. Contact Information
-
-For questions or suggestions about these Terms and Conditions, please contact:
-
-**GasPH Support**  
-Email: gasphorg@gmail.com  
-Location: Quezon City, Philippines
-
----
-
-By using GasPH, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at gasphorg@gmail.com.
