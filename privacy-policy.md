@@ -46,6 +46,12 @@ This privacy policy may be updated from time to time for any reason. The Service
 
 This privacy policy is effective as of 2025-05-14
 
+## Data Deletion Requests
+
+To request deletion of your account and associated data, please contact us at gasphorg@gmail.com with the subject line "Account Deletion Request" and include the email address associated with your account.
+
+We will process your deletion request within 30 days.
+
 ## Contact Us
 
 If you have any questions or suggestions about the privacy policy, do not hesitate to contact the Service Provider at gasphorg@gmail.com.
