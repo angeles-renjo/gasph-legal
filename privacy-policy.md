@@ -1,129 +1,51 @@
-# Terms & Conditions - GasPH
+# Privacy Policy
 
-**Last updated: May 14, 2025**
+This privacy policy applies to the GasPH app (hereby referred to as "Application") for mobile devices that was created by GasPH (hereby referred to as "Service Provider") as a Free service.
 
-These terms and conditions ("Terms") apply to the GasPH app (hereby referred to as "Application") for mobile devices that was created by Angeles Renjo (hereby referred to as "Service Provider") as a Free service.
+This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
-## 1. Acceptance of Terms
+## Information Collection and Use
 
-By downloading or using the Application, you automatically agree to these Terms. Please read and understand these Terms thoroughly before using the Application. If you do not agree with these Terms, do not use the Application.
+The Application collects information when you download and use it. This information may include information such as
 
-## 2. Intellectual Property Rights
+- Your device's Internet Protocol address (e.g. IP address)
+- The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+- The time spent on the Application
+- The operating system you use on your mobile device
 
-- Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited
-- Extracting the source code, translating the Application into other languages, or creating derivative versions is not permitted
-- All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
-## 3. Service Modifications and Charges
+- Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+- Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+- Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-The Service Provider reserves the right to:
-- Modify the Application at any time
-- Introduce charges for services that are currently free
-- Discontinue features or the entire Application
+The Application uses third party services that may collect information used to identify you.
 
-Any future charges will be clearly communicated to you before implementation.
+Link to privacy policy of third party service providers used by the Application:
 
-## 4. User Responsibilities
+- [Google Play Services](https://policies.google.com/privacy)
+- [Google Maps Platform](https://policies.google.com/privacy)
+- [Supabase](https://supabase.com/privacy)
+- [Expo](https://expo.io/privacy)
 
-### Device Security
-- You are responsible for maintaining the security of your device and Application access
-- We strongly advise against jailbreaking or rooting your device
-- Such modifications may expose your device to security risks and cause the Application to malfunction
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-### Data Usage
-- The Application requires an internet connection (Wi-Fi or mobile data)
-- You are responsible for any data charges from your mobile provider
-- This includes roaming charges when using the Application outside your home territory
+## Security
 
-### Account Security
-- Keep your login credentials confidential
-- Notify us immediately of any unauthorized access
-- You are responsible for all activities under your account
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-## 5. Third-Party Services
+## Children
 
-The Application uses third-party services with their own Terms and Conditions:
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-- [Google Play Services](https://policies.google.com/terms)
-- [Google Maps Platform](https://cloud.google.com/maps-platform/terms)
-- [Supabase](https://supabase.com/terms)
-- [Expo](https://expo.io/terms)
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (gasphorg@gmail.com) so that they will be able to take the necessary actions.
 
-## 6. Location Services
+## Changes
 
-- The Application requires location access to find nearby gas stations
-- Location data is used solely for Application functionality
-- You can disable location services, but this will limit Application features
+This privacy policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the privacy policy by updating this page with the new privacy policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-## 7. Limitations of Liability
+This privacy policy is effective as of 2025-05-14
 
-The Service Provider:
-- Cannot guarantee uninterrupted service
-- Is not responsible for issues arising from:
-  - Lack of internet connectivity
-  - Device battery depletion
-  - Third-party service outages
-  - Inaccurate data from third parties
+## Contact Us
 
-## 8. Data Accuracy
-
-- We strive to provide accurate fuel prices and station information
-- However, we rely on third-party data and user contributions
-- We accept no liability for losses resulting from data inaccuracies
-
-## 9. Updates and Compatibility
-
-- We may update the Application periodically
-- Updates may be required to continue using the Application
-- We don't guarantee compatibility with all device versions
-- You agree to install updates when available
-
-## 10. Termination
-
-The Service Provider may terminate the Application or your access at any time without notice. Upon termination:
-- Your rights and licenses under these Terms end
-- You must stop using the Application
-- You must delete the Application from your device
-
-## 11. User Content
-
-If you submit content (reviews, prices, photos):
-- You grant us a license to use, modify, and display this content
-- You warrant that you have the right to submit such content
-- You agree not to submit illegal, offensive, or misleading content
-
-## 12. Prohibited Uses
-
-You agree not to:
-- Use the Application for illegal purposes
-- Submit false or misleading information
-- Interfere with the Application's operation
-- Attempt to gain unauthorized access
-- Reverse engineer the Application
-
-## 13. Indemnification
-
-You agree to indemnify and hold harmless the Service Provider from any claims arising from:
-- Your use of the Application
-- Your violation of these Terms
-- Your violation of any third-party rights
-
-## 14. Governing Law
-
-These Terms are governed by the laws of the Philippines. Any disputes shall be subject to the exclusive jurisdiction of the courts in Quezon City, Philippines.
-
-## 15. Changes to Terms
-
-We may update these Terms periodically. Changes will be posted on this page with an updated date. Your continued use after changes constitutes acceptance.
-
-## 16. Contact Information
-
-For questions or suggestions about these Terms and Conditions, please contact:
-
-**GasPH Support**  
-Email: gasphorg@gmail.com  
-Location: Quezon City, Philippines
-
----
-
-By using GasPH, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.
+If you have any questions or suggestions about the privacy policy, do not hesitate to contact the Service Provider at gasphorg@gmail.com.
