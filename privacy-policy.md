@@ -27,6 +27,8 @@ Link to privacy policy of third party service providers used by the Application:
 - [Google Maps Platform](https://policies.google.com/privacy)
 - [Supabase](https://supabase.com/privacy)
 - [Expo](https://expo.io/privacy)
+- [RevenueCat](https://www.revenuecat.com/privacy/)
+- [AdMob]
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
