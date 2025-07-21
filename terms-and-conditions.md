@@ -1,6 +1,6 @@
-# Terms & Conditions
+**Terms & Conditions**  
 
-These terms and conditions apply to the GasPH app (hereby referred to as "Application") for mobile devices that was created by GasPH (hereby referred to as "Service Provider") as a Free service.
+These terms and conditions apply to the gas-ph app (hereby referred to as "Application") for mobile devices that was created by Renjo Angeles (hereby referred to as "Service Provider") as an Ad Supported service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
@@ -10,10 +10,11 @@ The Application stores and processes personal data that you have provided to the
 
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
-- [Google Play Services](https://policies.google.com/terms)
-- [Google Maps Platform](https://cloud.google.com/maps-platform/terms)
-- [Supabase](https://supabase.com/terms)
-- [Expo](https://expo.io/terms)
+*   [Google Play Services](https://policies.google.com/terms)
+*   [AdMob](https://developers.google.com/admob/terms)
+*   [Expo](https://expo.io/terms)
+*   [Sentry](https://sentry.io/terms/)
+*   [RevenueCat](https://www.revenuecat.com/terms)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
@@ -25,12 +26,12 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
-## Changes to These Terms and Conditions
+**Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2025-05-14
+These terms and conditions are effective as of 2025-07-21
 
-## Contact Us
+**Contact Us**
 
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at gasphorg@gmail.com.
