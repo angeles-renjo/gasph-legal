@@ -38,9 +38,9 @@ The Service Provider may wish to update the application at some point. The appli
 
 ### Changes to These Terms and Conditions
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+The Service Provider may periodically update their Terms and Conditions. The Service Provider will notify you of any material changes by posting a notice within the Application or by other reasonable means (such as email or an in-app notification) at least 7 days before the changes take effect, in addition to updating this page. Your continued use of the Application after the effective date of the revised Terms constitutes your acceptance of the changes.
 
-These terms and conditions are effective as of 2025-07-21.
+These terms and conditions are effective as of 2026-04-24.
 
 ### Contact Us
 
